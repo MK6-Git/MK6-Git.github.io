@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "Apprentissage CSS",
+			"path": "../../../Documents/Apprentissage CSS"
+		},
+		{
+			"name": "integration-run-master",
+			"path": "."
+		},
+		{
+			"path": "../../integration-run-3fd9a784f6836fc3005e254260289a1f60ccb7d4/integration-run-correction"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "integration-run-master"
+	}
+}
